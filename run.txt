@@ -1,0 +1,6 @@
+nvcc filename.cu -o filename
+./filename
+
+
+g++ -fopenmp filename.cpp -o filename
+./filename
